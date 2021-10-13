@@ -1,2 +1,4 @@
 This is a quick test
 Line 2
+Line 3
+Line 4 from GitHub
